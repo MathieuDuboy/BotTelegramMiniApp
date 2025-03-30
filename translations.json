@@ -1,0 +1,22 @@
+{
+    "en": {
+        "title": "NovaBotCard",
+        "user_id": "User ID : ",
+        "top_up": "Top-up",
+        "block_card": "Block card",
+        "order_card": "Order Card",
+        "no_transactions": "No transactions in your history ? Your history can be made today.",
+        "settings": "Settings",
+        "contact_support": "Contact Support"
+    },
+    "ru": {
+        "title": "NovaBotCard",
+        "user_id": "Идентификатор пользователя : ",
+        "top_up": "Пополнить",
+        "block_card": "Заблокировать карту",
+        "order_card": "Заказать карту",
+        "no_transactions": "Нет транзакций в вашей истории? Ваша история может быть создана сегодня.",
+        "settings": "Настройки",
+        "contact_support": "Связаться с поддержкой"
+    }
+}
